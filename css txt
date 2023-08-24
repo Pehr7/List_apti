@@ -3,12 +3,23 @@
 * {margin: 0; padding: 0}
 
 :root {
-  --btnBgColor 
-  --btnFontColor:
-  --btnHovColor:
-  --bgColor:
-  --bgListaColor:
-  --
+  btnBgColor: #99ffff;
+	btnFontColor: #004d4d;
+	btnHovColor: #4dffff;
+	bgColor: #87CEFA;
+	bgListaColor: #FFE4E1;
+	bgFecharItem: #ff6666;
+  
+}
 
+body {
+  max-width: 900px;
+  margin: 2ren auto;
+}
 
+.wapp {
+  display: flex;
+  flex-direction: column;
+  
+  
 }
